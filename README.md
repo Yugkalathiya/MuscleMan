@@ -19,7 +19,7 @@ A visual walkthrough of the MuscleMan application interface:
 
 ### 🏠 Home/Dashboard
 The main hub where users can see an overview of their progress and navigate key features.
-!(About_Us.png)
+![image alt](https://github.com/Yugkalathiya/MuscleMan/blob/38ee1dd855dacbfa98b8feab2a218b058f20de4a/About_Us.png)
 
 ### ℹ️ About Us
 Information about the MuscleMan platform and its core features.
