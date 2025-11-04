@@ -19,19 +19,19 @@ A visual walkthrough of the MuscleMan application interface:
 
 ### 🏠 Home/Dashboard
 The main hub where users can see an overview of their progress and navigate key features.
-![image alt](https://github.com/Yugkalathiya/MuscleMan/blob/38ee1dd855dacbfa98b8feab2a218b058f20de4a/About_Us.png)
+![image alt](https://github.com/Yugkalathiya/MuscleMan/blob/70abc92012a5542eafd4cb17338d64bbe4c9bcbf/Home.png)
 
 ### ℹ️ About Us
 Information about the MuscleMan platform and its core features.
-!(Home.png)
+![image alt](https://github.com/Yugkalathiya/MuscleMan/blob/38ee1dd855dacbfa98b8feab2a218b058f20de4a/About_Us.png)
 
 ### 🔒 User Login
 The secure entry point for existing users.
-!(Login.png)
+![image alt](https://github.com/Yugkalathiya/MuscleMan/blob/70abc92012a5542eafd4cb17338d64bbe4c9bcbf/Login.png)
 
 ### 📝 New User Registration
 The sign-up page for new fitness enthusiasts joining the platform.
-!(Register.png)
+![image alt](https://github.com/Yugkalathiya/MuscleMan/blob/70abc92012a5542eafd4cb17338d64bbe4c9bcbf/Register.png)
 
 ## ✨ Key Features
 
