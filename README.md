@@ -163,6 +163,4 @@ Ensure you have the following software installed:
 **Yug Kalathiya** - **[https://www.linkedin.com/in/yug-kalathiya-72b8002a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]**
 
 Project Link: [https://github.com/Yugkalathiya/MuscleMan](https://github.com/Yugkalathiya/MuscleMan)
-## 📂 Project Structure
 
-A brief overview of the top-level files and directories:
